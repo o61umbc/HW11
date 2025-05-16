@@ -7,6 +7,7 @@
 
 ; Description: This program takes the provided hex values and prints out their ASCII characters, ex: 0x83 will be converted into 83 in the print, and so on.
 ; Internal documentation is available in the form of comments within code.
+; Extra credit was conducted and is done in the form of the two subroutines at the bottom of the code.
 
 
 
